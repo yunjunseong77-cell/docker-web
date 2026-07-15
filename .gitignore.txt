@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+desktop.ini
+# VS Code
+.vscode/
+# 로그 / 비밀 정보
+*.log
+.env
